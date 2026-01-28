@@ -1,0 +1,1 @@
+export default "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.1875 7.5H2.6875V8.5H3.1875V7.5ZM3.1875 8.5H12.8125V7.5H3.1875V8.5Z\" fill=\"currentColor\"/>\n<path d=\"M8.875 4.0625L12.8125 8L8.875 11.9375\" stroke=\"currentColor\" stroke-linecap=\"square\"/>\n</svg>\n"
